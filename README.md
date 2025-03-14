@@ -109,7 +109,7 @@ fig = px.density_mapbox(df, lat='lat', lon='lon', radius=30, opacity=0.4, height
                         zoom=6.1, center=dict(lat=35.9078, lon=127.7669),
                         mapbox_style="stamen-toner")
 fig.show()
-
+```
 
 ---
 
