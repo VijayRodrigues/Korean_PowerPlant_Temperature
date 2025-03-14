@@ -43,6 +43,8 @@ The dataset encompasses summer weather data from 2013 to 2017, specifically focu
 
 ## 📁 Project Structure  
 
+```plaintext
+
 Temperature_Forecast_Project/
 │
 ├── data/
@@ -82,7 +84,7 @@ Temperature_Forecast_Project/
 ├── LICENSE                           # License file
 └── .gitignore                        # Files and directories to ignore in Git
 
-
+```
 ---
 
 ## 📊 Exploratory Data Analysis (EDA)
