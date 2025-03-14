@@ -43,7 +43,6 @@ The dataset encompasses summer weather data from 2013 to 2017, specifically focu
 
 ## 📁 Project Structure  
 
-```plaintext
 Temperature_Forecast_Project/
 │
 ├── data/
